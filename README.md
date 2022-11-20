@@ -11,7 +11,7 @@
 - Операционная система MS Windows, начиная с 7 версии.
 ##
 Изображения из игры:
-![image](https://user-images.githubusercontent.com/79350520/202925125-745b089c-f944-4651-a695-fb08ca56c9e5.png)
+![image](https://user-images.githubusercontent.com/79350520/202925294-789e3fdd-1487-49fc-838a-8a5f8940ed40.png)
 ##
 Как установить:
 ##
